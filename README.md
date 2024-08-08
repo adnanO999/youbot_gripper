@@ -13,17 +13,17 @@ Navigate to your package directory and build the package:
 cd <package_dir>
 catkin_make
 source devel/setup.bash
-  ''' shell
+  ```
  
  ## Launch Rviz
 ```shell 
   roslaunch total_assembly_gripper dispaly.rviz
-  ```shell
+  ```
 ## Move the Gripper
 
 set_desired_position.py script that subscribes to /joint_states and move the gripper
 ```shell 
 chmod +x <script_dir>
 rosrun total_assembly_gripper set_desired_position.py
-```shell
+```
 
