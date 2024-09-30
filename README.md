@@ -1,3 +1,6 @@
+
+![WhatsApp Image 2024-09-30 at 09 56 40 (1)](https://github.com/user-attachments/assets/ebdadd04-a417-454f-a71a-4f9c0ad45758)
+
 # youbot_gripper
 ROS package for a customized youbot gripper
 * Gripper URDF
